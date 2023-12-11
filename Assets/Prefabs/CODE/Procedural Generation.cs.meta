@@ -1,0 +1,31 @@
+fileFormatVersion: 2
+guid: e010f4df94e54574e8e0e810247fbba4
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dirtTilemap: {instanceID: 0}
+  - grassTilemap: {instanceID: 0}
+  - stoneTilemap: {instanceID: 0}
+  - sandTilemap: {instanceID: 0}
+  - snowTilemap: {instanceID: 0}
+  - hillsMidTile: {instanceID: 0}
+  - hillsTopTile: {instanceID: 0}
+  - hillsBotTile: {instanceID: 0}
+  - sandTopTile: {instanceID: 0}
+  - sandMidTile: {instanceID: 0}
+  - sandBotTile: {instanceID: 0}
+  - snowTopTile: {instanceID: 0}
+  - snowMidTile: {instanceID: 0}
+  - snowBotTile: {instanceID: 0}
+  - cityMidTile: {instanceID: 0}
+  - cityTopTile: {instanceID: 0}
+  - cityBotTile: {instanceID: 0}
+  - spawnPointPrefab: {fileID: 1292545172335227983, guid: 27341fec196cfd1458114ca5c3b03dd8, type: 3}
+  - playerPrefab: {instanceID: 0}
+  - endRoundPrefab: {fileID: 6702490196965557850, guid: 2fc4269b23726124883c0d13f984ec1f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
