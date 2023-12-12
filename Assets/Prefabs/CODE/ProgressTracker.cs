@@ -27,7 +27,7 @@ public class ProgressTracker : MonoBehaviour
         playerPosition = player.position.x;
 
         // Calculate progress as a percentage
-        progress = (playerPosition / levelWidth) * 1000f;
+        progress = (playerPosition / levelWidth) * 100f;
 
         // Update the UI Text to display the progress
         progressText.text = progress.ToString("F1") + "%";
