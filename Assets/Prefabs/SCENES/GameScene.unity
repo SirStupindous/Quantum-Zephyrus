@@ -2065,8 +2065,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 0, y: 0}
-  m_AnchoredPosition: {x: 50, y: 24.542969}
-  m_SizeDelta: {x: 100, y: 100}
+  m_AnchoredPosition: {x: 53, y: 37.043}
+  m_SizeDelta: {x: 50, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &821365375
 MonoBehaviour:
@@ -2088,7 +2088,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 222d62d87db5931498bb85845842b0d3, type: 3}
+  m_Sprite: {fileID: 21300012, guid: 56d84991286850f428b4e7df0cca7380, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -3789,6 +3789,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 923773182780682458, guid: 2e9c21095bb503f4f9228bae2320c206, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 2581709017126168526, guid: 2e9c21095bb503f4f9228bae2320c206, type: 3}
       propertyPath: m_Size.x
       value: 8.25
@@ -3805,6 +3809,10 @@ PrefabInstance:
       propertyPath: m_WasSpriteAssigned
       value: 1
       objectReference: {fileID: 0}
+    - target: {fileID: 4877111153236298635, guid: 2e9c21095bb503f4f9228bae2320c206, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5812460397450302385, guid: 2e9c21095bb503f4f9228bae2320c206, type: 3}
       propertyPath: m_IsTrigger
       value: 0
@@ -3813,10 +3821,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: Player
       objectReference: {fileID: 0}
+    - target: {fileID: 6593838301422870702, guid: 2e9c21095bb503f4f9228bae2320c206, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1
+      objectReference: {fileID: 0}
     - target: {fileID: 7902870005631145491, guid: 2e9c21095bb503f4f9228bae2320c206, type: 3}
       propertyPath: progressText
       value: 
       objectReference: {fileID: 671551231}
+    - target: {fileID: 8937547402897821786, guid: 2e9c21095bb503f4f9228bae2320c206, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
